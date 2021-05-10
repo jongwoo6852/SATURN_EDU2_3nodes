@@ -1,8 +1,0 @@
-
-Debug|x64
-Debug|x64VFFortranCompilerTool
-Debug|x64
-VFLinkerTool
-Debug|x64VFMidlToolRelease|Win32Release|Win32VFFortranCompilerToolRelease|Win32
-VFLinkerToolRelease|Win32VFMidlToolRelease|x64Release|x64VFFortranCompilerToolRelease|x64
-VFLinkerToolRelease|x64VFMidlTool
